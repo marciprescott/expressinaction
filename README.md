@@ -1,2 +1,2 @@
 # expressinaction
-A repo learning Express
+From the book, a repo from chapter 1.  
