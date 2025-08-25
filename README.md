@@ -1,2 +1,2 @@
 # expressinaction
-From the book, a repo from chapter 1.  
+From the book Express In Action first chapter. 
